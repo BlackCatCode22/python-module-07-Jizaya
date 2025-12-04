@@ -1,0 +1,70 @@
+Bird Names:  
+5 year old male bird (red-billed hornbill), born in spring, gray and white with red beak color, 1.6 pounds, from Serengeti National Park, Tanzania
+3 year old male bird (cattle egret), born in summer, white with yellow beak color, 1.1 pounds, from Maasai Mara, Kenya
+4 year old female bird (martial eagle), born in winter, brown and white mottled color, 8.5 pounds, from Kruger National Park, South Africa
+2 year old female bird (guineafowl), born in fall, black and white spotted color, 2.7 pounds, from Okavango Delta, Botswana
+3 year old male bird (African fish eagle), born in spring, brown, white, and black color, 7.9 pounds, from Lake Victoria, Uganda
+2 year old female bird (lilac-breasted roller), born in summer, blue, green, and lilac color, 0.2 pounds, from Tsavo National Park, Kenya
+4 year old female bird (superb starling), born in spring, blue, orange, and white color, 0.25 pounds, from Amboseli National Park, Kenya
+
+Crocodile Names:  
+18 year old male Nile crocodile, born in summer, dark green and brown color, 1,050 pounds, from Rufiji River, Tanzania
+22 year old male Nile crocodile, born in fall, olive green color, 1,300 pounds, from Mara River, Kenya
+15 year old male Nile crocodile, born in spring, dark olive and gray color, 900 pounds, from Okavango Delta, Botswana 
+10 year old female Nile crocodile, born in winter, brownish green color, 650 pounds, from Zambezi River, Zambia 
+
+Elephant Names:  
+25 year old female African savanna elephant, born in spring, gray color, 7,800 pounds, from Amboseli National Park, Kenya
+30 year old male African savanna elephant, born in winter, dark gray color, 11,000 pounds, from Kruger National Park, South Africa
+18 year old female African savanna elephant, born in fall, light gray color, 6,900 pounds, from Serengeti National Park, Tanzania
+10 year old male African savanna elephant, born in summer, gray color, 5,000 pounds, from Chobe National Park, Botswana 
+45 year old female African savanna elephant, born in spring, wrinkled gray color, 8,500 pounds, from Tsavo National Park, Kenya
+
+Gazelle Names:  
+4 year old female Thomson’s gazelle, born in spring, tan and white with black side stripe color, 55 pounds, from Serengeti National Park, Tanzania
+3 year old female Grant’s gazelle, born in summer, tan and white color, 70 pounds, from Maasai Mara, Kenya
+2 year old female Thomson’s gazelle, born in spring, light tan and white color, 50 pounds, from Ngorongoro Conservation Area, Tanzania
+
+Hippo Names:  
+9 year old male hippopotamus, born in summer, dark gray and pink color, 3,200 pounds, from Mara River, Kenya
+16 year old male hippopotamus, born in winter, slate gray color, 3,900 pounds, from Luangwa River, Zambia 
+
+Hyena Names:  
+6 year old female spotted hyena, born in spring, tan with dark spots color, 110 pounds, from Serengeti National Park, Tanzania
+7 year old male spotted hyena, born in fall, brown and tan spotted color, 130 pounds, from Kruger National Park, South Africa
+5 year old male spotted hyena, born in summer, grayish brown with black spots color, 120 pounds, from Maasai Mara, Kenya  
+4 year old male striped hyena, born in winter, gray with black stripes color, 95 pounds, from Tsavo National Park, Kenya 
+3 year old male spotted hyena, born in spring, tan and dark brown color, 105 pounds, from Ngorongoro Conservation Area, Tanzania
+8 year old male spotted hyena, born in summer, dark brown and black spotted color, 140 pounds, from Okavango Delta, Botswana  
+2 year old male spotted hyena, born in spring, light tan with faint spots color, 90 pounds, from Amboseli National Park, Kenya 
+6 year old male spotted hyena, born in fall, tan and gray mottled color, 125 pounds, from Etosha National Park, Namibia  
+5 year old female spotted hyena, born in spring, sandy tan with black spots color, 115 pounds, from Serengeti National Park, Tanzania 
+4 year old female spotted hyena, born in summer, tan and gray color, 100 pounds, from Kruger National Park, South Africa  
+9 year old male spotted hyena, born in winter, dark brown and black color, 145 pounds, from Kgalagadi Transfrontier Park, South Africa 
+
+Lion Names:  
+12 year old male lion, born in fall, dark golden with black mane color, 430 pounds, from Serengeti National Park, Tanzania 
+10 year old male lion, born in summer, golden with full tawny mane color, 440 pounds, from Maasai Mara, Kenya  
+5 year old male lion, born in spring, light golden color, 410 pounds, from Serengeti National Park, Tanzania  
+4 year old female lion, born in spring, pale tan color, 300 pounds, from Maasai Mara, Kenya
+3 year old female lion, born in summer, light golden tan color, 285 pounds, from Kruger National Park, South Africa
+4 year old male lion, born in spring, golden color, 395 pounds, from Amboseli National Park, Kenya  
+5 year old male lion, born in winter, dark golden with brown mane color, 420 pounds, from Etosha National Park, Namibia 
+9 year old female lion, born in fall, tan color, 320 pounds, from Serengeti National Park, Tanzania
+8 year old female lion, born in summer, light tan color, 310 pounds, from Ngorongoro Conservation Area, Tanzania
+11 year old female lion, born in winter, dark tan color, 330 pounds, from Kruger National Park, South Africa
+6 year old male lion, born in spring, scruffy dark golden color, 380 pounds, from Okavango Delta, Botswana  
+5 year old female lion, born in fall, tawny tan color, 300 pounds, from Maasai Mara, Kenya 
+3 year old male lion, born in summer, pale golden color, 360 pounds, from Serengeti National Park, Tanzania 
+14 year old female lion, born in winter, pale tan with faint scars color, 325 pounds, from Tsavo National Park, Kenya 
+7 year old male lion, born in spring, rich golden color, 400 pounds, from Serengeti National Park, Tanzania 
+4 year old male lion, born in spring, light tan color, 390 pounds, from Kgalagadi Transfrontier Park, South Africa 
+
+Mandrill Names:  
+13 year old male mandrill, born in summer, olive-brown body with bright blue and red face color, 77 pounds, from Lopé National Park, Gabon 
+
+Meerkat Names:  
+3 year old male meerkat, born in spring, sandy brown and tan color, 2.1 pounds, from Kalahari Desert, Botswana 
+
+Warthog Names:  
+6 year old male common warthog, born in spring, grayish brown color, 190 pounds, from Serengeti National Park, Tanzania 
